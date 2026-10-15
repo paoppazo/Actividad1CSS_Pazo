@@ -1,0 +1,19 @@
+
+
+p { color: blue; font-family: Verdana; }
+
+
+.importante { background-color: yellow; font-weight: 800; }
+
+/* 3. Agrega un borde verde sólido de 3 píxeles y un padding de 10 píxeles al elemento
+con el ID especial. */ 
+#especial { border: 3px solid green; COMPLETAR:
+COMPLETAR; }
+/* 4. Establece un margen exterior de 10 píxeles y un margen interior de 5 píxeles para
+todos los elementos de la página. */
+ { COMPLETAR: COMPLETAR; COMPLETAR: COMPLETAR; }
+/* 5. Haz que los encabezados <h1> y <h2> tengan el mismo estilo: color rojo y texto
+centrado. */ COMPLETAR, COMPLETAR { COMPLETAR: COMPLETAR; text-align:
+center; }
+/* 6. Cambia el color del texto a morado solo para los párrafos (<p>) que tengan la clase
+importante. */ COMEPLTAR.COMPLETAR { color: #BC00FF; }
